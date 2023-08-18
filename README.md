@@ -1,8 +1,8 @@
-# lu-ui-v1
+# lu-ui-v3
 
 ## Project setup
 ```
-yarn install
+npm i lu-u1-v3
 ```
 
 ### Compiles and hot-reloads for development
